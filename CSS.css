@@ -576,21 +576,22 @@ th a {
 .submit-btn:hover {
     background-color: #aa0000;
 }
-.stalcalc-page .calculator {
+
+/*.stalcalc-page .calculator {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
     width: 90vw;
     margin: 40px auto;
     gap: 30px;
-}
+}*/
 
-.stalcalc-page .calculator-options {
+/*.stalcalc-page .calculator-options {
     display: flex;
     flex-direction: column;
     gap: 15px;
     width: 220px;
-}
+}*/
 
 .stalcalc-page .calculator-options select {
     width: 210px;
@@ -701,47 +702,6 @@ th a {
 .stalcalc-page .team-member p {
     max-width: 500px;
     color: #cccccc;
-}
-
-.stalcalc-page .contact-form {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    width: 500px;
-    max-width: 80%;
-    margin: 30px auto 60px;
-    color: white;
-}
-
-.stalcalc-page .contact-form input,
-.stalcalc-page .contact-form select,
-.stalcalc-page .contact-form textarea {
-    padding: 12px;
-    border: 1px solid #555555;
-    background-color: #1a1a1a;
-    color: white;
-    font-family: inherit;
-    font-size: 1rem;
-}
-
-.stalcalc-page .contact-form input:focus,
-.stalcalc-page .contact-form select:focus,
-.stalcalc-page .contact-form textarea:focus {
-    border-color: #5c42ed;
-    outline: none;
-}
-
-.stalcalc-page .contact-form button {
-    padding: 12px;
-    border: 1px solid #cc0000;
-    background-color: #1a1a1a;
-    color: white;
-    font-size: 1rem;
-    cursor: pointer;
-}
-
-.stalcalc-page .contact-form button:hover {
-    background-color: #cc0000;
 }
 
 /* Image Gallery */
